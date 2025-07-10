@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gopal Roy | Data Analyst</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Gopal Roy</h1>
+    <p>Data Analyst | SQL • Excel • Power BI • Python</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a passionate Data Analyst skilled in data cleaning, visualization, and business reporting using tools like SQL, Power BI, Excel, and Python. I love solving business problems with data.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Excel & Advanced Excel</li>
+      <li>Power BI Dashboarding</li>
+      <li>SQL Queries</li>
+      <li>Python (Pandas, Matplotlib)</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Sales Dashboard:</strong> Visualized mobile sales data using Power BI.</li>
+      <li><strong>Churn Prediction:</strong> Analyzed customer churn using Python.</li>
+      <li><strong>Data Cleaning (SQL):</strong> Used SQL to clean and organize messy data.</li>
+    </ul>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <p><a href="resume.pdf" download>Download My Resume (PDF)</a></p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: gopal@example.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/gopalroy" target="_blank">linkedin.com/in/gopalroy</a></p>
+    <p>GitHub: <a href="https://github.com/gopalroy" target="_blank">github.com/gopalroy</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Gopal Roy. All rights reserved.</p>
+  </footer>
+</body>
+</html>
